@@ -62,7 +62,7 @@
   <div class="logo-bar">
     <div class="container clearfix"> 
       <!-- Logo -->
-      <div class="logo"> <a href="index.php"><img src="images/logo-1.png" alt=""></a> </div>
+      <div class="logo"> <a href="index.php"><img src="images/logo-1.png" alt="Кристина Парикмахерская Комсомольск-на-Амуре"></a> </div>
       
       <!--Info Outer-->
       <div class="information-content"> 

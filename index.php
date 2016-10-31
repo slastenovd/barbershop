@@ -14,7 +14,7 @@ require ("header.php");
       <!-- SLIDE  -->
       <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"> 
         <!-- MAIN IMAGE --> 
-        <img src="images/slider/4.jpg"   alt=""  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
+        <img src="images/slider/4.jpg"   alt="Кристина Ваш личный парикмахер"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
         <!-- LAYER NR. 1 -->
         <div class="tp-caption tt-slider-title sft"
                     data-x="50"
@@ -23,8 +23,8 @@ require ("header.php");
                     data-start="500"
                     data-easing="Power4.easeOut"
                     data-endspeed="300"
-                    style="z-index: 1"> Добро пожаловать<br>
-          на сайт Кристины Носенко </div>
+                    style="z-index: 1"> Добро пожаловать<br>на сайт Кристины Носенко 
+        </div>
         
         <!-- LAYER NR. 2 -->
         <div class="tp-caption tt-slider-subtitle sft"
@@ -50,7 +50,7 @@ require ("header.php");
       <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"> 
         
         <!-- MAIN IMAGE --> 
-        <img src="images/slider/1.jpg"   alt=""  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
+        <img src="images/slider/1.jpg"   alt="Женские стрижки"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
         
         <!-- LAYER NR. 1 -->
         <div class="tp-caption tt-slider-title sft"
@@ -87,7 +87,7 @@ require ("header.php");
       <li data-transition="fade" data-slotamount="7" data-masterspeed="500" data-saveperformance="on"> 
         
         <!-- MAIN IMAGE --> 
-        <img src="images/slider/2.jpg"   alt="slidebg1"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
+        <img src="images/slider/2.jpg"   alt="Мужская стрижка"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
         
         <!-- LAYER NR. 1 -->
         <div class="tp-caption tt-slider-title sft"
@@ -128,7 +128,7 @@ require ("header.php");
                         > 
         
         <!-- MAIN IMAGE --> 
-        <img src="images/slider/3.jpg"   alt=""  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
+        <img src="images/slider/3.jpg"   alt="Прически к торжеству"  data-bgfit="cover" data-bgposition="center center" data-bgrepeat="no-repeat"> 
         
         <!-- LAYER NR. 1 -->
         <div class="tp-caption tt-slider-title sft"
@@ -171,8 +171,8 @@ require ("header.php");
   <!-- =-=-=-=-=-=-= ABOUT US =-=-=-=-=-=-= -->
   <section id="about-us" class="padding-top-120">
     <div class="container">
-      <div class="section-title"><strong>ОБО МНЕ</strong>
-        <h1 class="heading bold">ЧЕМ Я ЗАНИМАЮСЬ</h1>
+      <div class="section-title"><strong>Кристина Носенко</strong>
+        <h1 class="heading bold">Парикмахер стилист в Комсомольск-на-Амуре</h1>
         <hr>
         <p> Привет! Я - Кристина Носенко.</p>
         <p> Парикмахер стилист. Профессионал своего дела, творческий человек, мастер с большим стажем.
@@ -217,7 +217,7 @@ require ("header.php");
         </div>
         <!-- end col-md-6 -->
         
-        <div class="col-md-5 col-md-pull-7"> <img src="images/about.png"  alt=""> </div>
+        <div class="col-md-5 col-md-pull-7"> <img src="images/about.png"  alt="Кристина Носенко парикмахер"> </div>
         <!-- end col-md-5 --> 
         
       </div>
@@ -372,7 +372,7 @@ require ("header.php");
               <!-- feature image -->
               <div class="col-md-4 col-sm-4 col-xs-12 hidden-sm">
                 <div class="main-img">
-                 <img alt="" src="images/services.png">
+                 <img alt="Крисина парикмахер-стилист" src="images/services.png">
                 </div>
                 <!-- end features-services-img --> 
               </div>
@@ -633,7 +633,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/9.jpg" alt="">
+            <img src="images/portfolio/9.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, укладка</a> </div>
@@ -649,7 +649,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "man"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/12.jpg" alt="">
+            <img src="images/portfolio/12.jpg" alt="Мужская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Мужская стрижка</h3>
               <a href="#" class="links">Модельная стрижка</a> </div>
@@ -666,7 +666,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman","color"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/10.jpg" alt="">
+            <img src="images/portfolio/10.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, окрашивание</a> </div>
@@ -683,7 +683,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/11.jpg" alt="">
+            <img src="images/portfolio/11.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, укладка</a> </div>
@@ -701,7 +701,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/13.jpg" alt="">
+            <img src="images/portfolio/13.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, окрашивание</a> </div>
@@ -719,7 +719,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/14.jpg" alt="">
+            <img src="images/portfolio/14.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, окрашивание</a> </div>
@@ -736,7 +736,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "man"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/15.jpg" alt="">
+            <img src="images/portfolio/15.jpg" alt="Детская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Детская стрижка</h3>
               <a href="#" class="links">Детская стрижка</a> </div>
@@ -753,7 +753,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/16.jpg" alt="">
+            <img src="images/portfolio/16.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, окрашивание</a> </div>
@@ -770,7 +770,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/17.jpg" alt="">
+            <img src="images/portfolio/17.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, окрашивание</a> </div>
@@ -787,7 +787,7 @@ require ("header.php");
         <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
           <div class="portfolio">
             <div class="tt-overlay"></div>
-            <img src="images/portfolio/18.jpg" alt="">
+            <img src="images/portfolio/18.jpg" alt="Женская стрижка">
             <div class="portfolio-info">
               <h3 class="project-title">Женская стрижка</h3>
               <a href="#" class="links">стрижка, окрашивание</a> </div>
@@ -801,6 +801,40 @@ require ("header.php");
           <!-- /.recent-project --> 
         </li>
 
+        <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
+          <div class="portfolio">
+            <div class="tt-overlay"></div>
+            <img src="images/portfolio/19.jpg" alt="Женская стрижка">
+            <div class="portfolio-info">
+              <h3 class="project-title">Женская стрижка</h3>
+              <a href="#" class="links">стрижка, окрашивание</a> </div>
+            <!-- /.project-info -->
+            
+            <ul class="portfolio-details">
+              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+            </ul>
+          </div>
+          <!-- /.recent-project --> 
+        </li>
+
+
+        <li class="portfolio-item" data-groups='["all", "woman", "color"]'>
+          <div class="portfolio">
+            <div class="tt-overlay"></div>
+            <img src="images/portfolio/20.jpg" alt="Женская стрижка">
+            <div class="portfolio-info">
+              <h3 class="project-title">Женская стрижка</h3>
+              <a href="#" class="links">стрижка, окрашивание</a> </div>
+            <!-- /.project-info -->
+            
+            <ul class="portfolio-details">
+              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a href="#"><i class="fa fa-external-link"></i></a></li>
+            </ul>
+          </div>
+          <!-- /.recent-project --> 
+        </li>
 
        </ul>
     </div>
