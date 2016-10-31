@@ -760,7 +760,7 @@ require ("header.php");
             <!-- /.project-info -->
             
             <ul class="portfolio-details">
-              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a class="tt-lightbox" href="images/portfolio/16.jpg"><i class="fa fa-search"></i></a></li>
               <li><a href="#"><i class="fa fa-external-link"></i></a></li>
             </ul>
           </div>
@@ -777,7 +777,7 @@ require ("header.php");
             <!-- /.project-info -->
             
             <ul class="portfolio-details">
-              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a class="tt-lightbox" href="images/portfolio/17.jpg"><i class="fa fa-search"></i></a></li>
               <li><a href="#"><i class="fa fa-external-link"></i></a></li>
             </ul>
           </div>
@@ -794,7 +794,7 @@ require ("header.php");
             <!-- /.project-info -->
             
             <ul class="portfolio-details">
-              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a class="tt-lightbox" href="images/portfolio/18.jpg"><i class="fa fa-search"></i></a></li>
               <li><a href="#"><i class="fa fa-external-link"></i></a></li>
             </ul>
           </div>
@@ -811,7 +811,7 @@ require ("header.php");
             <!-- /.project-info -->
             
             <ul class="portfolio-details">
-              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a class="tt-lightbox" href="images/portfolio/19.jpg"><i class="fa fa-search"></i></a></li>
               <li><a href="#"><i class="fa fa-external-link"></i></a></li>
             </ul>
           </div>
@@ -829,7 +829,7 @@ require ("header.php");
             <!-- /.project-info -->
             
             <ul class="portfolio-details">
-              <li><a class="tt-lightbox" href="images/portfolio/14.jpg"><i class="fa fa-search"></i></a></li>
+              <li><a class="tt-lightbox" href="images/portfolio/20.jpg"><i class="fa fa-search"></i></a></li>
               <li><a href="#"><i class="fa fa-external-link"></i></a></li>
             </ul>
           </div>
