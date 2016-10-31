@@ -2332,6 +2332,11 @@ ul.choose-list li {
 	-ms-transition-property: opacity;
 	transition-property: opacity;
 }
+
+.carousel-inner {
+	min-height: 350px;
+}
+
 #fade-quote-carousel.carousel .carousel-indicators {
 	bottom: 10px;
 }
